@@ -1,0 +1,10 @@
+/.idea
+.DS_Store
+/node_modules
+vendor
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+
